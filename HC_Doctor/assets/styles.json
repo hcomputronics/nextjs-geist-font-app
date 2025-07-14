@@ -1,0 +1,12 @@
+{
+  "themes": {
+    "light": {
+      "background": "#ffffff",
+      "foreground": "#000000"
+    },
+    "dark": {
+      "background": "#1e1e1e",
+      "foreground": "#ffffff"
+    }
+  }
+}
